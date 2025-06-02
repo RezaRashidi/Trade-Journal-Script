@@ -126,8 +126,8 @@ def generate_trading_journal_excel(start_date_str, initial_capital, num_weeks, f
     
     # Update dv_order_type options
     order_type_options = [
-        "2R (Normal)", "2R (Mid-Candle Pullback Entry)",
-        "4R (Aggressive Stop)", "4R (Mid-Candle Pullback Entry)"
+        "2R)", "2R-ME","2R-MS"
+        "4R-MS", "4R-ME"
     ]
     dv_order_type = DataValidation(type="list", formula1=f'"{",".join(order_type_options)}"', allow_blank=True)
     
