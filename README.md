@@ -98,7 +98,7 @@ Contributions are welcome! If you have suggestions for improvements, new feature
 6. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details (if applicable, otherwise state "No specific license is applied to this script.").
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any questions or feedback, please open an issue on the GitHub repository or contact [Your Name/Email/GitHub Profile Link].
+For any questions or feedback, please open an issue on the GitHub repository or contact.
